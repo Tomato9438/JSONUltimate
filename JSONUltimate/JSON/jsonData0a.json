@@ -1,0 +1,96 @@
+[
+  {
+    "odpt:holidays" : [
+      {
+        "odpt:departureTime" : "05:09",
+        "odpt:destinationStation" : "odpt.Station:TokyoMetro.Tozai.Nakano",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      },
+      {
+        "odpt:departureTime" : "05:19",
+        "odpt:destinationStation" : "odpt.Station:TokyoMetro.Tozai.Nakano",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      }
+    ],
+    "@type" : "odpt:StationTimetable",
+    "odpt:operator" : "odpt.Operator:TokyoMetro",
+    "odpt:saturdays" : [
+      {
+        "odpt:departureTime" : "05:09",
+        "odpt:destinationStation" : "odpt.Station:TokyoMetro.Tozai.Nakano",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      },
+      {
+        "odpt:departureTime" : "05:19",
+        "odpt:destinationStation" : "odpt.Station:TokyoMetro.Tozai.Nakano",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      }
+    ],
+    "@id" : "urn:ucode:_00001C000000000000010000030E3B75",
+    "dc:date" : "2016-03-25T14:51:41+09:00",
+    "owl:sameAs" : "odpt.StationTimetable:TokyoMetro.Tozai.Otemachi.Nakano",
+    "@context" : "http:\/\/vocab.tokyometroapp.jp\/context_odpt_StationTimetable.jsonld",
+    "odpt:station" : "odpt.Station:TokyoMetro.Tozai.Otemachi",
+    "odpt:railDirection" : "odpt.RailDirection:TokyoMetro.Nakano",
+    "odpt:railway" : "odpt.Railway:TokyoMetro.Tozai",
+    "odpt:weekdays" : [
+      {
+        "odpt:departureTime" : "05:09",
+        "odpt:destinationStation" : "odpt.Station:TokyoMetro.Tozai.Nakano",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      },
+      {
+        "odpt:departureTime" : "05:19",
+        "odpt:destinationStation" : "odpt.Station:TokyoMetro.Tozai.Nakano",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      }
+    ]
+  },
+  {
+    "odpt:holidays" : [
+      {
+        "odpt:departureTime" : "05:19",
+        "odpt:destinationStation" : "odpt.Station:ToyoRapidRailway.ToyoRapid.ToyoKatsutadai",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      },
+      {
+        "odpt:departureTime" : "05:32",
+        "odpt:destinationStation" : "odpt.Station:ToyoRapidRailway.ToyoRapid.ToyoKatsutadai",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      }
+    ],
+    "@type" : "odpt:StationTimetable",
+    "odpt:operator" : "odpt.Operator:TokyoMetro",
+    "odpt:saturdays" : [
+      {
+        "odpt:departureTime" : "05:19",
+        "odpt:destinationStation" : "odpt.Station:ToyoRapidRailway.ToyoRapid.ToyoKatsutadai",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      },
+      {
+        "odpt:departureTime" : "05:32",
+        "odpt:destinationStation" : "odpt.Station:ToyoRapidRailway.ToyoRapid.ToyoKatsutadai",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      }
+    ],
+    "@id" : "urn:ucode:_00001C000000000000010000030E3B76",
+    "dc:date" : "2016-03-25T14:51:41+09:00",
+    "owl:sameAs" : "odpt.StationTimetable:TokyoMetro.Tozai.Otemachi.NishiFunabashi",
+    "@context" : "http:\/\/vocab.tokyometroapp.jp\/context_odpt_StationTimetable.jsonld",
+    "odpt:station" : "odpt.Station:TokyoMetro.Tozai.Otemachi",
+    "odpt:railDirection" : "odpt.RailDirection:TokyoMetro.NishiFunabashi",
+    "odpt:railway" : "odpt.Railway:TokyoMetro.Tozai",
+    "odpt:weekdays" : [
+      {
+        "odpt:departureTime" : "05:19",
+        "odpt:destinationStation" : "odpt.Station:ToyoRapidRailway.ToyoRapid.ToyoKatsutadai",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      },
+      {
+        "odpt:departureTime" : "05:32",
+        "odpt:destinationStation" : "odpt.Station:ToyoRapidRailway.ToyoRapid.ToyoKatsutadai",
+        "odpt:trainType" : "odpt.TrainType:TokyoMetro.Local"
+      }
+    ]
+  }
+]

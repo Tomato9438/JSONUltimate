@@ -1,0 +1,25 @@
+{
+"Louisiana": {
+	"districtData": {
+	  "Baton Rouge": {
+		"confirmed": 1,
+		"lastupdatedtime": "",
+		"delta": {
+		  "confirmed": 0
+		}
+	  }
+	}
+  },
+  "Mississippi": {
+	"districtData": {
+	  "Jackson": {
+		"confirmed": 1,
+		"lastupdatedtime": "",
+		"delta": {
+		  "confirmed": 0
+		}
+	  }
+	}
+  }
+}
+

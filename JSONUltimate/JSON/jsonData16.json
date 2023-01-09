@@ -1,0 +1,75 @@
+{
+   "albums":{
+	  "album":[
+		 {
+			"name":"Dark & Wild",
+			"mbid":"",
+			"url":"https://www.last.fm/music/BTS",
+			"artist":{
+			   "name":"BTS",
+			   "mbid":"0d79fe8e-ba27-4859-bb8c-2f255f346853",
+			   "url":"https://www.last.fm/music/BTS"
+			},
+			"image":[
+			   {
+				  "#text":"https://lastfm.freetls.fastly.net/i/u/34s/6dfcd9efe7f9560334eadaf3ad6a0049.png",
+				  "size":"small"
+			   },
+			   {
+				  "#text":"https://lastfm.freetls.fastly.net/i/u/64s/6dfcd9efe7f9560334eadaf3ad6a0049.png",
+				  "size":"medium"
+			   },
+			   {
+				  "#text":"https://lastfm.freetls.fastly.net/i/u/174s/6dfcd9efe7f9560334eadaf3ad6a0049.png",
+				  "size":"large"
+			   },
+			   {
+				  "#text":"https://lastfm.freetls.fastly.net/i/u/300x300/6dfcd9efe7f9560334eadaf3ad6a0049.png",
+				  "size":"extralarge"
+			   }
+			],
+			"@attr":{
+			   "rank":"1"
+			}
+		 },
+		 {
+			"name":"Agust D",
+			"mbid":"",
+			"url":"https://www.last.fm/music/Agust+D",
+			"artist":{
+			   "name":"Agust D",
+			   "mbid":"",
+			   "url":"https://www.last.fm/music/Agust+D"
+			},
+			"image":[
+			   {
+				  "#text":"https://lastfm.freetls.fastly.net/i/u/34s/05ed3fae3b45b2fcda6c80e76c4c8aed.png",
+				  "size":"small"
+			   },
+			   {
+				  "#text":"https://lastfm.freetls.fastly.net/i/u/64s/05ed3fae3b45b2fcda6c80e76c4c8aed.png",
+				  "size":"medium"
+			   },
+			   {
+				  "#text":"https://lastfm.freetls.fastly.net/i/u/174s/05ed3fae3b45b2fcda6c80e76c4c8aed.png",
+				  "size":"large"
+			   },
+			   {
+				  "#text":"https://lastfm.freetls.fastly.net/i/u/300x300/05ed3fae3b45b2fcda6c80e76c4c8aed.png",
+				  "size":"extralarge"
+			   }
+			],
+			"@attr":{
+			   "rank":"2"
+			}
+		 }
+	  ],
+	  "@attr":{
+		 "tag":"Hip Hop",
+		 "page":"1",
+		 "perPage":"2",
+		 "totalPages":"6491",
+		 "total":"12982"
+	  }
+   }
+}

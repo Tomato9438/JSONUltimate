@@ -1,0 +1,28 @@
+[
+    {
+        "_source": {
+            "nome": "LOTERIAS BELEM",
+            "endereco": "R DO COMERCIO, 279",
+            "uf": "AL",
+            "cidade": "BELEM",
+            "bairro": "CENTRO"
+        },
+        "_id": "010177175"
+    },
+    {
+        "_source": {
+            "nome": "Bel Loterias"
+        },
+        "_id": "80224903"
+    },
+    {
+        "_source": {
+            "nome": "BELLEZA LOTERIAS",
+            "endereco": "R RIVADAVIA CORREA, 498",
+            "uf": "RS",
+            "cidade": "SANTANA DO LIVRAMENTO",
+            "bairro": "CENTRO"
+        },
+        "_id": "180124986"
+    }
+]

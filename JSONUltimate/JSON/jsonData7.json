@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Team name",
+    "shower": {
+      "id": 1,
+      "status": 1,
+      "startLocation": {
+        "id": 1,
+        "name": "abc 16"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Team name",
+    "shower": {
+      "id": 2,
+      "status": 1,
+      "startLocation": {
+        "id": 1,
+        "name": "efg 16"
+      }
+    }
+  }
+]

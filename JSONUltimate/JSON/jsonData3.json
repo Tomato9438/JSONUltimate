@@ -1,0 +1,28 @@
+[
+ {
+ "images": [
+            {
+            "id": 976,
+            "date_created": "2016-08-10T15:16:49",
+            "date_modified": "2016-08-10T15:16:49",
+            "src": "https://www.wpengine.com/wp-content/uploads/2016/07/canasta-familia.jpg?fit=600%2C600&ssl=1",
+            "name": "canasta-familia",
+            "alt": "",
+            "position": 0
+            }
+            ]
+ },
+ {
+ "images": [
+            {
+            "id": 976,
+            "date_created": "2016-08-10T15:16:49",
+            "date_modified": "2016-08-10T15:16:49",
+            "src": "https://books.yahoo.com/wp-content/uploads/2016/07/canasta-familia.jpg?fit=600%2C600&ssl=1",
+            "name": "canasta-familia",
+            "alt": "",
+            "position": 0
+            }
+            ]
+ }
+]

@@ -1,0 +1,22 @@
+{
+   "itenaries":{
+	  "days":[
+		 [
+			{
+			   "itenary_id":0,
+			   "itenary_location_name":"Batu Caves Temple"
+			}
+		 ],
+		 [
+			{
+			   "itenary_id":0,
+			   "itenary_location_name":"KL Tower "
+			},
+			{
+			   "itenary_id":1,
+			   "itenary_location_name":"KL Forest Eco Park"
+			}
+		 ]
+	  ]
+   }
+}

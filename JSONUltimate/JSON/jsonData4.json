@@ -1,0 +1,22 @@
+{
+    "total_count":7,
+    "offset":0,
+    "limit":50,
+    "notifications":[
+                     {
+                     "adm_big_picture":"",
+                     "adm_group":"",
+                     "adm_group_message":{
+                     
+                     },
+                     "adm_large_icon":"",
+                     "adm_small_icon":"",
+                     "adm_sound":"",
+                     "amazon_background_data":false,
+                     "android_accent_color":"",
+                     "android_group":"",
+                     "android_group_message":{
+                     
+                     }
+                     }]
+}

@@ -1,0 +1,12 @@
+{
+    "venue": {
+        "name": "Home Office",
+        "meeting_rooms": [{
+                          "name": "1",
+                          }],
+        "exit": [{
+                 "name": "Back door",
+                 
+                 }]
+    }
+}

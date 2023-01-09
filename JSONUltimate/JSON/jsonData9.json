@@ -1,0 +1,65 @@
+{
+    "date":"2018-10-18",
+    "time_of_day":"16:00",
+    "request_time":"2018-10-18T16:00:27+01:00",
+    "station_name":"London Waterloo",
+    "station_code":"WAT",
+    "arrivals":{
+        "all":[
+            {
+                "mode":"train",
+                "service":"24673605",
+                "train_uid":"W12378",
+                "platform":"10",
+                "operator":"SW",
+                "operator_name":"South Western Railway",
+                "aimed_departure_time":null,
+                "aimed_arrival_time":"05:18",
+                "aimed_pass_time":null,
+                "origin_name":"Guildford",
+                "destination_name":"London Waterloo",
+                "source":"ATOC",
+                "category":"OO",
+                "service_timetable":{
+                    "id":"https://transportapi.com/v3/uk/train/service/train_uid:W12378/2018-10-18/timetable.json?app_id=80b56d0a&app_key=b44a5870830959a7a961fdbb65f9dc13"
+                }
+            },
+            {
+                "mode":"train",
+                "service":"24671505",
+                "train_uid":"W14110",
+                "platform":"1",
+                "operator":"SW",
+                "operator_name":"South Western Railway",
+                "aimed_departure_time":null,
+                "aimed_arrival_time":"05:35",
+                "aimed_pass_time":null,
+                "origin_name":"Twickenham",
+                "destination_name":"London Waterloo",
+                "source":"ATOC",
+                "category":"OO",
+                "service_timetable":{
+                    "id":"https://transportapi.com/v3/uk/train/service/train_uid:W14110/2018-10-18/timetable.json?app_id=80b56d0a&app_key=b44a5870830959a7a961fdbb65f9dc13"
+                }
+            },
+            {
+                "mode":"train",
+                "service":"24671105",
+                "train_uid":"W14764",
+                "platform":"15",
+                "operator":"SW",
+                "operator_name":"South Western Railway",
+                "aimed_departure_time":null,
+                "aimed_arrival_time":"05:41",
+                "aimed_pass_time":null,
+                "origin_name":"Staines",
+                "destination_name":"London Waterloo",
+                "source":"ATOC",
+                "category":"OO",
+                "service_timetable":{
+                    "id":"https://transportapi.com/v3/uk/train/service/train_uid:W14764/2018-10-18/timetable.json?app_id=80b56d0a&app_key=b44a5870830959a7a961fdbb65f9dc13"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "code":200,
+    "status":"OK",
+    "results":{
+        "datetime":[
+            {
+                "times":{
+                    "Imsak":"04:18",
+                    "Sunrise":"05:48",
+                    "Fajr":"04:28",
+                    "Dhuhr":"12:00",
+                    "Asr":"15:30",
+                    "Sunset":"18:13",
+                    "Maghrib":"18:26",
+                    "Isha":"19:32",
+                    "Midnight":"23:20"
+                },
+                "date":{
+                    "timestamp":1553817600,
+                    "gregorian":"2019-03-29",
+                    "hijri":"1440-07-22"
+                }
+            }
+        ],
+        "location":{
+            "latitude":30.04442024230957,
+            "longitude":31.2357120513916,
+            "elevation":30.0,
+            "city":"Cairo",
+            "country":"Egypt",
+            "country_code":"EG",
+            "timezone":"Africa/Cairo",
+            "local_offset":2.0
+        },
+        "settings":{
+            "timeformat":"HH:mm",
+            "school":"Ithna Ashari",
+            "juristic":"Shafii",
+            "highlat":"None",
+            "fajr_angle":18.0,
+            "isha_angle":18.0
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "contraventionsData" : [
+        {
+            "id" : "1",
+            "contravention_id" : "314",
+            "question" : "Last Gas Boiler Service date (Noted on boiler)",
+            "Options" : [
+                {
+                    "action" : "Yes"
+                },
+                {
+                    "action" : "Further Investigation \/ Maintenance"
+                },
+                {
+                    "action" : "N\/A"
+                }
+            ]
+        },
+        {
+            "id" : "2",
+            "contravention_id" : "314",
+            "question" : "Is Gas Boiler due a service? (Over 12 Months)",
+            "Options" : [
+                {
+                    "action" : "Yes"
+                },
+                {
+                    "action" : "Maintenance Attention"
+                },
+                {
+                    "action" : "N\/A"
+                }
+            ]
+        },
+        {
+            "id" : "3",
+            "contravention_id" : "314",
+            "question" : "Gas heating system \/ boiler working ok?",
+            "Options" : [
+                {
+                    "action" : "Yes"
+                },
+                {
+                    "action" : "Maintenance Attention"
+                },
+                {
+                    "action" : "N\/A"
+                }
+            ]
+        },
+        {
+            "id" : "4",
+            "contravention_id" : "314",
+            "question" : "Copy of Current Service Cert give to tenant",
+            "Options" : [
+                {
+                    "action" : "Yes"
+                },
+                {
+                    "action" : "Tenant to be provided with copy of current service cert"
+                },
+                {
+                    "action" : "N\/A"
+                }
+            ]
+        }
+    ],
+    "message" : "Successfully.",
+    "success" : "1"
+}

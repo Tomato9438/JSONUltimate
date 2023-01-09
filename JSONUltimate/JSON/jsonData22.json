@@ -1,0 +1,39 @@
+[
+   {
+	  "store_no":"R403",
+	  "store_name":"CentrO",
+	  "open_hours":{
+		 "1":{
+			"starting_time":"10:00",
+			"closing_time":"20:00",
+			"notes":""
+		 },
+		 "2":{
+			"starting_time":"10:00",
+			"closing_time":"20:00",
+			"notes":""
+		 },
+		 "3":{
+			"starting_time":"00:00",
+			"closing_time":"00:00",
+			"notes":"back to regular hours, starting September 2019||Olaf Kurz||Aug 28, 2019"
+		 }
+	  }
+   },
+   {
+	  "store_no":"R189",
+	  "store_name":"Topanga",
+	  "open_hours":{
+		 "1":{
+			"starting_time":"10:00",
+			"closing_time":"21:00",
+			"notes":""
+		 },
+		 "2":{
+			"starting_time":"10:00",
+			"closing_time":"21:00",
+			"notes":""
+		 }
+	  }
+   }
+]
